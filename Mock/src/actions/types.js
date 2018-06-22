@@ -1,0 +1,2 @@
+export const SET_FILTER_RATED = "SET_FILTER_RATED"
+export const SET_FILTER_VIEWS = "SET_FILTER_VIEWS"

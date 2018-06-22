@@ -1,0 +1,36 @@
+.item2{
+    color:white;
+}
+.pic{
+    height:200px;
+    width:200px;
+}
+
+.cd{
+    height:350px;
+    width:200px;
+}
+.btnlist{
+    color: #333;
+    background: #337ab7;
+    border-width: 2px;
+    border: 1px solid #2e6da4;
+    height:40px;
+    width:200px;
+    font-size: 11px;
+    cursor: pointer;
+}
+
+.font{
+    color:white;
+}
+
+.icon{
+    color:gold;
+}
+
+
+.list{
+    background-color:#F8F8FF;
+
+}
